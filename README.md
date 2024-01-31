@@ -1,10 +1,10 @@
-### Olá! Eu sou o PollarZ 🐻‍❄️
+### Hello! I'm PollarZ 🐻‍❄️
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@polarytb)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CpGpzttU3X)
 
-### Linguagens que eu mexo
+### The programming languages I work with.
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
